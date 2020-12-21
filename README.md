@@ -28,8 +28,17 @@
 <br/><br/>
 ### My certificates: <br/>
 
-https://stepik.org/cert/104951 <br/>
-https://stepik.org/cert/105379 <br/>
-https://www.coursera.org/account/accomplishments/certificate/QY6LVU9KAV3A <br/>
-https://stepik.org/cert/105166 <br/>
 https://stepik.org/cert/54096 <br/>
+https://stepik.org/cert/105166 <br/>
+https://www.coursera.org/account/accomplishments/certificate/QY6LVU9KAV3A <br/>
+https://stepik.org/cert/105379 <br/>
+https://stepik.org/cert/104951 <br/>
+https://geekbrains.ru/certificates/54064.en <br/>
+https://geekbrains.ru/certificates/58975.en <br/>
+https://geekbrains.ru/certificates/54817.en <br/>
+
+
+
+
+
+
