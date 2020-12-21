@@ -4,8 +4,7 @@
 ![dasith github stats](https://github-readme-stats.vercel.app/api?username=patsuckow&count_private=true&show_icons=true&hide_title=true&theme=nord) 
 ![myskills](https://github-readme-stats.vercel.app/api/top-langs/?username=patsuckow&layout=compact&exclude_repo=PingMeRN&theme=nord)
 
-### My skills : <br/>
-
+### My skills :
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="php" width="26px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />
 <img align="left" alt="composer" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/composer/composer.png" />
@@ -26,8 +25,7 @@
 <img align="left" alt="git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/bitbucket.svg" />
 
 <br/><br/>
-### My certificates: <br/>
-
+### My certificates:
 https://stepik.org/cert/54096 <br/>
 https://www.coursera.org/account/accomplishments/certificate/QY6LVU9KAV3A <br/>
 https://geekbrains.ru/certificates/54817.en <br/>
