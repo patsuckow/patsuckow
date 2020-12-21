@@ -2,7 +2,7 @@
 
 
 ![dasith github stats](https://github-readme-stats.vercel.app/api?username=patsuckow&count_private=true&show_icons=true&hide_title=true&theme=nord) 
-![myskills](https://github-readme-stats.vercel.app/api/top-langs/?username=patsuckow&layout=compact&exclude_repo=PingMeRN&&theme=nord)
+![myskills](https://github-readme-stats.vercel.app/api/top-langs/?username=patsuckow&layout=compact&exclude_repo=PingMeRN&theme=nord)
 
 ### My skills : <br/>
 
