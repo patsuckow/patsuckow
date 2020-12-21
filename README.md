@@ -24,3 +24,11 @@
 <img align="left" alt="bash" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />
 <img align="left" alt="git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/bitbucket.svg" />
+
+<br/><br/>
+### My certificates: <br/>
+
+https://stepik.org/cert/104951 <br/>
+https://stepik.org/cert/104951 <br/>
+https://www.coursera.org/account/accomplishments/certificate/QY6LVU9KAV3A <br/>
+https://stepik.org/cert/54096 <br/>
