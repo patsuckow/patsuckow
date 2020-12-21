@@ -29,6 +29,6 @@
 ### My certificates: <br/>
 
 https://stepik.org/cert/104951 <br/>
-https://stepik.org/cert/104951 <br/>
+https://stepik.org/cert/105379 <br/>
 https://www.coursera.org/account/accomplishments/certificate/QY6LVU9KAV3A <br/>
 https://stepik.org/cert/54096 <br/>
