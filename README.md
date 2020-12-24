@@ -3,8 +3,8 @@
 ![myskills](https://github-readme-stats.vercel.app/api/top-langs/?username=patsuckow&layout=compact&exclude_repo=PingMeRN&theme=nord)
 
 ### My skills :
-Python, pip, Jupyter, <br/>
-PHP, Composer, PhpMyAdmin, CakePHP, <br/> 
+Python, pip, Jupyter, PyCharm<br/>
+PHP, Composer, PhpMyAdmin, CakePHP, VSCode, <br/> 
 JavaScript, jQuery, Bootstrap, <br/> 
 MySQL, SQLite, <br/>
 API: Vk, Yandex, Google, <br/>
