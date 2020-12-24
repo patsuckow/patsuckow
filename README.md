@@ -4,7 +4,7 @@
 
 ### My skills :
 Python, pip, <br/>
-PHP, Composer, CakePHP, PhpMyAdmin, <br/> 
+PHP, Composer, PhpMyAdmin, CakePHP, <br/> 
 JavaScript, jQuery, Bootstrap, <br/> 
 MySQL, SQLite, <br/>
 API: Vk, Yandex, Google<br/>
