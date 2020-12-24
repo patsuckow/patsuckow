@@ -3,7 +3,7 @@
 ![myskills](https://github-readme-stats.vercel.app/api/top-langs/?username=patsuckow&layout=compact&exclude_repo=PingMeRN&theme=nord)
 
 ### My skills :
-Python, php, composer, CakePHP, JavaScript, jquery, bootstrap, mysql, PhpMyAdmin, sqlite, HTML5, CSS3, json, joomla, Linux, Terminal, bash, git, bitbucket.
+Python, PHP, Composer, CakePHP, JavaScript, jQuery, Bootstrap, MySQL, PhpMyAdmin, SQLite, HTML5, CSS3, json, XML, Joomla, Linux, Terminal, Bash, Git, Bitbucket.
 
 ### My certificates:
 https://stepik.org/cert/54096 <br/>
