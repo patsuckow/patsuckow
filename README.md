@@ -8,7 +8,7 @@ PHP, Composer, PhpMyAdmin, CakePHP, <br/>
 JavaScript, jQuery, Bootstrap, <br/> 
 MySQL, SQLite, <br/>
 API: Vk, Yandex, Google, <br/>
-HTML5, CSS3, Json, XML, Joomla, <br/> 
+HTML5, CSS3, Json, XML, Joomla, Markdown<br/> 
 Linux, Terminal, Bash, VIM, Git, Bitbucket.
 
 ### My certificates:
