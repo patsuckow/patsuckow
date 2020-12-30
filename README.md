@@ -24,7 +24,7 @@ https://geekbrains.ru/certificates/54064.en <br/>
 https://geekbrains.ru/certificates/58975.en <br/>
 https://stepik.org/cert/105166 <br/>
 
-### Self-completed courses:
-
+### Self-completed courses (without obtaining a certificate of completion):
+[Специалист]. Проектирование безопасности сайтов и эффективная защита от атак.
 
 
