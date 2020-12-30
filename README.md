@@ -38,7 +38,9 @@ https://stepik.org/cert/105166 <br/>
 [Specialist.ru]/ "Оптимизация и продвижение сайтов." <br/>
 [Specialist.ru]/ "Программирование на PHP (Уровень 1-4)." <br/>
 [Стас Протасевич]/ "API ВКОНТАКТЕ. Современный PHP по работе с Библиотекой VK-SDK с ВКОНТАКТЕ." <br/>
+[Kevin Skoglund]/ "Git. Essential Training." <br/>
 [WebForMySelf.com]/ "CakePHP: с Нуля до Гуру. На примере создания корпоративного сайта." <br/>
+[WebForMySelf.com]/ "Курс по регулярным выражениям на PHP." <br/>
 [WebForMySelf.com]/ "Полный курс по объектно-ориентированному программированию на PHP." <br/>
 [WebForMySelf.com]/ "Полный курс по MySQL." <br/>
 [WebForMySelf.com]/ "jQuery с Нуля до Профи." <br/>
