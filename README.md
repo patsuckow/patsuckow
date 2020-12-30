@@ -4,9 +4,9 @@
 Technical operation of electrified and flight-navigation systems, 2006
 
 ### My skills and tools used:
-IDE: Phpstorm / VS Code / PyCharm
-Python, pip, Jupyter,<br/>
-PHP, Composer, PhpMyAdmin, CakePHP,<br/> 
+IDE: Phpstorm / VS Code / PyCharm, <br/>
+Python, pip, Jupyter, <br/>
+PHP, Composer, PhpMyAdmin, CakePHP, <br/> 
 JavaScript, jQuery, Bootstrap, <br/>
 HTML5/CSS3/Adaptive and cross-browser layout, Json, XML, Markdown, <br/>
 MySQL, SQLite, <br/>
