@@ -32,13 +32,16 @@ https://geekbrains.ru/certificates/54064.en <br/>
 https://geekbrains.ru/certificates/58975.en <br/>
 https://stepik.org/cert/105166 <br/>
 
-### Self-completed courses (without obtaining a certificate of completion):
-[Specialist.ru]/ Проектирование безопасности сайтов и эффективная защита от атак. <br/>
-[Specialist.ru]/ Оптимизация и продвижение сайтов. <br/>
-[Specialist.ru]/ Программирование на PHP (Уровень 1-4). <br/>
+### Completed courses:
+[Stepik.org]/ "Анализ безопасности веб-проектов." <br/>
+[Specialist.ru]/ "Проектирование безопасности сайтов и эффективная защита от атак." <br/>
+[Specialist.ru]/ "Оптимизация и продвижение сайтов." <br/>
+[Specialist.ru]/ "Программирование на PHP (Уровень 1-4)." <br/>
 [Стас Протасевич]/ "API ВКОНТАКТЕ. Современный PHP по работе с Библиотекой VK-SDK с ВКОНТАКТЕ." <br/>
-[GeekBrains.ru]/ PHP от основ к ООП. <br/>
-[WebForMySelf.com]/ Полный курс по PHP с ООП. <br/>
+[WebForMySelf.com]/ "CakePHP: с Нуля до Гуру. На примере создания корпоративного сайта." <br/>
+[WebForMySelf.com]/ "Полный курс по объектно-ориентированному программированию на PHP." <br/>
+[WebForMySelf.com]/ "Полный курс по MySQL." <br/>
+[GeekBrains.ru]/ "PHP от основ к ООП." <br/>
 [Станислав Бойко]/ "Безопасность PHP". <br/>
 [Станислав Бойко]/ "PHP + SQLITE3. Создание CMS системы с нуля." <br/>
 [Станислав Бойко]/ "Гостевая книга на PHP + SQLite3." <br/>
