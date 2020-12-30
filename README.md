@@ -18,7 +18,8 @@ Creating Regular Expressions, <br/>
 ![myskills](https://github-readme-stats.vercel.app/api/top-langs/?username=patsuckow&layout=compact&exclude_repo=PingMeRN&theme=nord)
 
 ### My skills that are no longer in demand:
-Joomla! CMS + Creation of modules, plugins and templates<br/>
+Joomla! CMS + Creation of modules, plugins and templates <br/>
+Creating widgets and gadgets on the desktop for Windows 7, 8 <br/>
 
 ### My certificates:
 https://stepik.org/cert/54096 <br/>
