@@ -11,9 +11,9 @@ JavaScript, jQuery, Bootstrap, <br/>
 HTML5/CSS3/Adaptive and cross-browser layout, Json, XML, Markdown, <br/>
 MySQL, SQLite, <br/>
 API: Vk, Yandex, Google, <br/>
-Linux, Terminal, Bash, VIM, Git, Bitbucket,
-Parsing data from sites,
-Creating Regular Expressions,
+Linux, Terminal, Bash, VIM, Git, Bitbucket, <br/>
+Parsing data from sites, <br/>
+Creating Regular Expressions, <br/>
 
 ![myskills](https://github-readme-stats.vercel.app/api/top-langs/?username=patsuckow&layout=compact&exclude_repo=PingMeRN&theme=nord)
 
