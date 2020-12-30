@@ -9,8 +9,10 @@ JavaScript, jQuery, Bootstrap, <br/>
 MySQL, SQLite, <br/>
 API: Vk, Yandex, Google, <br/>
 HTML5, CSS3, Json, XML, Markdown, <br/>
-Joomla CMS, <br/>
 Linux, Terminal, Bash, VIM, Git, Bitbucket.
+
+### My skills that are no longer in demand:
+Joomla CMS + Creation of modules, plugins and templates<br/>
 
 ### My certificates:
 https://stepik.org/cert/54096 <br/>
@@ -26,5 +28,5 @@ https://stepik.org/cert/105166 <br/>
 
 ### Self-completed courses (without obtaining a certificate of completion):
 [Специалист]. Проектирование безопасности сайтов и эффективная защита от атак.
-
+Курс "Joomla 3 в деталях" (от Олег Касьянов)
 
