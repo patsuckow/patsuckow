@@ -2,17 +2,23 @@
 
 ![myskills](https://github-readme-stats.vercel.app/api/top-langs/?username=patsuckow&layout=compact&exclude_repo=PingMeRN&theme=nord)
 
-### My skills :
-Python, pip, Jupyter, PyCharm<br/>
-PHP, Composer, PhpMyAdmin, CakePHP, VSCode, <br/> 
-JavaScript, jQuery, Bootstrap, <br/> 
+### Specialization in diploma:
+Technical operation of electrified and flight-navigation systems
+
+### My skills and tools used:
+IDE: Phpstorm / VS Code / PyCharm
+Python, pip, Jupyter,<br/>
+PHP, Composer, PhpMyAdmin, CakePHP,<br/> 
+JavaScript, jQuery, Bootstrap, <br/>
+HTML5/CSS3/Adaptive and cross-browser layout, Json, XML, Markdown, <br/>
 MySQL, SQLite, <br/>
 API: Vk, Yandex, Google, <br/>
-HTML5, CSS3, Json, XML, Markdown, <br/>
-Linux, Terminal, Bash, VIM, Git, Bitbucket.
+Linux, Terminal, Bash, VIM, Git, Bitbucket,
+Parsing data from sites,
+Creating Regular Expressions,
 
 ### My skills that are no longer in demand:
-Joomla CMS + Creation of modules, plugins and templates<br/>
+Joomla! CMS + Creation of modules, plugins and templates<br/>
 
 ### My certificates:
 https://stepik.org/cert/54096 <br/>
