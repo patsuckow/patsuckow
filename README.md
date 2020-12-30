@@ -3,7 +3,7 @@
 ![myskills](https://github-readme-stats.vercel.app/api/top-langs/?username=patsuckow&layout=compact&exclude_repo=PingMeRN&theme=nord)
 
 ### Specialization in diploma:
-Technical operation of electrified and flight-navigation systems
+Technical operation of electrified and flight-navigation systems, 2006
 
 ### My skills and tools used:
 IDE: Phpstorm / VS Code / PyCharm
