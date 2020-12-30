@@ -7,8 +7,8 @@ Technical operation of electrified and flight-navigation systems, 2006
 IDE: PhpStorm / VS Code / PyCharm, <br/>
 Python, pip, Jupyter, <br/>
 PHP, Composer, PhpMyAdmin, CakePHP, <br/> 
-JavaScript, jQuery, Bootstrap, <br/>
-HTML5/CSS3/Adaptive and cross-browser layout, Json, AJAX, XML, Markdown, <br/>
+JavaScript, jQuery, Bootstrap, AJAX<br/>
+HTML5/CSS3/Adaptive and cross-browser layout, Json, XML, Markdown, <br/>
 MySQL, SQLite, <br/>
 API: Vk, Yandex, Google, <br/>
 Linux, Terminal, Bash, VIM, Git, Bitbucket, <br/>
