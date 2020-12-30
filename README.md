@@ -1,7 +1,5 @@
 ### Hi there, 😈
 
-![myskills](https://github-readme-stats.vercel.app/api/top-langs/?username=patsuckow&layout=compact&exclude_repo=PingMeRN&theme=nord)
-
 ### Specialization in diploma:
 Technical operation of electrified and flight-navigation systems, 2006
 
@@ -16,6 +14,8 @@ API: Vk, Yandex, Google, <br/>
 Linux, Terminal, Bash, VIM, Git, Bitbucket,
 Parsing data from sites,
 Creating Regular Expressions,
+
+![myskills](https://github-readme-stats.vercel.app/api/top-langs/?username=patsuckow&layout=compact&exclude_repo=PingMeRN&theme=nord)
 
 ### My skills that are no longer in demand:
 Joomla! CMS + Creation of modules, plugins and templates<br/>
