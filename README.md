@@ -41,6 +41,8 @@ https://stepik.org/cert/105166 <br/>
 [WebForMySelf.com]/ "CakePHP: с Нуля до Гуру. На примере создания корпоративного сайта." <br/>
 [WebForMySelf.com]/ "Полный курс по объектно-ориентированному программированию на PHP." <br/>
 [WebForMySelf.com]/ "Полный курс по MySQL." <br/>
+[WebForMySelf.com]/ "jQuery с Нуля до Профи." <br/>
+[WebForMySelf.com]/ "JavaScript с Нуля до Профи." <br/>
 [GeekBrains.ru]/ "PHP от основ к ООП." <br/>
 [Станислав Бойко]/ "Безопасность PHP". <br/>
 [Станислав Бойко]/ "PHP + SQLITE3. Создание CMS системы с нуля." <br/>
