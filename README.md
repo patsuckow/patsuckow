@@ -33,7 +33,7 @@ https://geekbrains.ru/certificates/54064.en <br/>
 https://geekbrains.ru/certificates/58975.en <br/>
 https://stepik.org/cert/105166 <br/>
 
-### Completed courses:
+### Completed courses (independently):
 [Stepik.org]/ "Анализ безопасности веб-проектов." <br/>
 [Specialist.ru]/ "Проектирование безопасности сайтов и эффективная защита от атак." <br/>
 [Specialist.ru]/ "Оптимизация и продвижение сайтов." <br/>
