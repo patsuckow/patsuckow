@@ -14,6 +14,7 @@ API: Vk, Yandex, Google, <br/>
 Linux, Terminal, Bash, VIM, Git, Bitbucket, <br/>
 Parsing data from sites, <br/>
 Creating Regular Expressions, <br/>
+SEO (Website optimization and promotion), <br/>
 
 ![myskills](https://github-readme-stats.vercel.app/api/top-langs/?username=patsuckow&layout=compact&exclude_repo=PingMeRN&theme=nord)
 
