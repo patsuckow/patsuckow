@@ -1,6 +1,6 @@
 ### Hi there, 😈
 
-### Specialization in diploma:
+### My specialization in diploma:
 Technical operation of electrified and flight-navigation systems, 2006
 
 ### My skills and tools used:
