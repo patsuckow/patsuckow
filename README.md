@@ -1,7 +1,8 @@
 ### Hi there, 😈
 
 ### My specialization in diploma:
-Technical operation of electrified and flight-navigation systems, 2006
+1. "Technical operation of electrified and flight-navigation systems", graduated in 2006.<br/>
+2. "Information systems and technologies in business" (studied for only two years, did not graduate).
 
 ### My skills and tools used:
 IDE: PhpStorm / PyCharm / VS Code, <br/>
