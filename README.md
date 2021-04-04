@@ -25,6 +25,7 @@ Creating widgets and gadgets on the desktop for Windows 7, 8 <br/>
 ### My certificates:
 https://stepik.org/cert/54096 <br/>
 https://www.coursera.org/account/accomplishments/certificate/QY6LVU9KAV3A <br/>
+https://stepik.org/cert/932119<br/>
 https://geekbrains.ru/certificates/54817.en <br/>
 https://geekbrains.ru/certificates/214250 <br/>
 https://stepik.org/cert/105379 <br/>
@@ -36,6 +37,7 @@ https://stepik.org/cert/105166 <br/>
 
 ### Completed courses (independently):
 [Stepik.org]/ "Анализ безопасности веб-проектов." <br/>
+[Stepik.org]/ "Основы Git" <br/>
 [Specialist.ru]/ "Проектирование безопасности сайтов и эффективная защита от атак." <br/>
 [Specialist.ru]/ "Оптимизация и продвижение сайтов." <br/>
 [Specialist.ru]/ "Программирование на PHP (Уровень 1-4)." <br/>
