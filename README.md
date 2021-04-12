@@ -5,9 +5,9 @@
 2. "Information systems and technologies in business" (studied for only two years, did not graduate).
 
 ### My skills and tools used:
-IDE: PhpStorm / PyCharm / VS Code, <br/>
-Python, pip, Jupyter, <br/>
-PHP, Composer, CakePHP, <br/> 
+IDE: PhpStorm / PyCharm / WebStorm / VS Code, <br/>
+Python3, pip, Jupyter, <br/>
+PHP, Composer, CakePHP Framework, <br/> 
 JavaScript, AJAX, jQuery, Bootstrap<br/>
 HTML5/CSS3/Adaptive and cross-browser layout, Json, XML, Markdown, <br/>
 BD & tools: MySQL, SQLite, PhpMyAdmin, DB Browser for SQLite<br/>
