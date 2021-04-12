@@ -39,6 +39,8 @@ https://stepik.org/cert/105166 <br/>
 ### Completed courses (independently):
 [Stepik.org]/ "Анализ безопасности веб-проектов." <br/>
 [Stepik.org]/ "Основы Git" <br/>
+[Coursera.org]/ "Погружение в Python"
+[Coursera.org]/ "Основы программирования на Python"
 [Specialist.ru]/ "Проектирование безопасности сайтов и эффективная защита от атак." <br/>
 [Specialist.ru]/ "Оптимизация и продвижение сайтов." <br/>
 [Specialist.ru]/ "Программирование на PHP (Уровень 1-4)." <br/>
