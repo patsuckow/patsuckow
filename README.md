@@ -38,12 +38,12 @@ https://stepik.org/cert/105166 <br/>
 
 ### Completed courses (independently):
 
-#### Security: <br/>
+#### Security:
 [Stepik.org]/ "Анализ безопасности веб-проектов." <br/>
 [Specialist.ru]/ "Проектирование безопасности сайтов и эффективная защита от атак." <br/>
 [Станислав Бойко]/ "Безопасность PHP". <br/>
 
-#### Other: <br/>
+#### Other:
 [Stepik.org]/ "Основы Git" <br/>
 [Coursera.org]/ "Погружение в Python" <br/>
 [Coursera.org]/ "Основы программирования на Python" <br/>
