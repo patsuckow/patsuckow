@@ -37,11 +37,16 @@ https://geekbrains.ru/certificates/58975.en <br/>
 https://stepik.org/cert/105166 <br/>
 
 ### Completed courses (independently):
+
+#### Security: <br/>
 [Stepik.org]/ "Анализ безопасности веб-проектов." <br/>
+[Specialist.ru]/ "Проектирование безопасности сайтов и эффективная защита от атак." <br/>
+[Станислав Бойко]/ "Безопасность PHP". <br/>
+
+#### Other: <br/>
 [Stepik.org]/ "Основы Git" <br/>
 [Coursera.org]/ "Погружение в Python" <br/>
 [Coursera.org]/ "Основы программирования на Python" <br/>
-[Specialist.ru]/ "Проектирование безопасности сайтов и эффективная защита от атак." <br/>
 [Specialist.ru]/ "Оптимизация и продвижение сайтов." <br/>
 [Specialist.ru]/ "Программирование на PHP (Уровень 1-4)." <br/>
 [Стас Протасевич]/ "API ВКОНТАКТЕ. Современный PHP по работе с Библиотекой VK-SDK с ВКОНТАКТЕ." <br/>
@@ -53,7 +58,6 @@ https://stepik.org/cert/105166 <br/>
 [WebForMySelf.com]/ "jQuery с Нуля до Профи." <br/>
 [WebForMySelf.com]/ "JavaScript с Нуля до Профи." <br/>
 [GeekBrains.ru]/ "PHP от основ к ООП." <br/>
-[Станислав Бойко]/ "Безопасность PHP". <br/>
 [Станислав Бойко]/ "PHP + SQLITE3. Создание CMS системы с нуля." <br/>
 [Станислав Бойко]/ "Гостевая книга на PHP + SQLite3." <br/>
 [Олег Касьянов]/ "Joomla 3 в деталях." <br/>
