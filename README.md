@@ -43,22 +43,27 @@ https://stepik.org/cert/105166 <br/>
 [Specialist.ru]/ "Проектирование безопасности сайтов и эффективная защита от атак." <br/>
 [Станислав Бойко]/ "Безопасность PHP". <br/>
 
-#### Other:
-[Stepik.org]/ "Основы Git" <br/>
-[Coursera.org]/ "Погружение в Python" <br/>
-[Coursera.org]/ "Основы программирования на Python" <br/>
-[Specialist.ru]/ "Оптимизация и продвижение сайтов." <br/>
+### PHP & CakePHP:
 [Specialist.ru]/ "Программирование на PHP (Уровень 1-4)." <br/>
-[Стас Протасевич]/ "API ВКОНТАКТЕ. Современный PHP по работе с Библиотекой VK-SDK с ВКОНТАКТЕ." <br/>
-[Kevin Skoglund]/ "Git. Essential Training." <br/>
-[WebForMySelf.com]/ "CakePHP: с Нуля до Гуру. На примере создания корпоративного сайта." <br/>
-[WebForMySelf.com]/ "Курс по регулярным выражениям на PHP." <br/>
-[WebForMySelf.com]/ "Полный курс по объектно-ориентированному программированию на PHP." <br/>
-[WebForMySelf.com]/ "Полный курс по MySQL." <br/>
-[WebForMySelf.com]/ "jQuery с Нуля до Профи." <br/>
-[WebForMySelf.com]/ "JavaScript с Нуля до Профи." <br/>
 [GeekBrains.ru]/ "PHP от основ к ООП." <br/>
 [Станислав Бойко]/ "PHP + SQLITE3. Создание CMS системы с нуля." <br/>
 [Станислав Бойко]/ "Гостевая книга на PHP + SQLite3." <br/>
+[WebForMySelf.com]/ "CakePHP: с Нуля до Гуру. На примере создания корпоративного сайта." <br/>
+[WebForMySelf.com]/ "Курс по регулярным выражениям на PHP." <br/>
+[WebForMySelf.com]/ "Полный курс по объектно-ориентированному программированию на PHP." <br/>
+[Стас Протасевич]/ "API ВКОНТАКТЕ. Современный PHP по работе с Библиотекой VK-SDK с ВКОНТАКТЕ." <br/>
+
+### JavaScript & jQuery:
+[WebForMySelf.com]/ "JavaScript & jQuery с Нуля до Профи." <br/>
+
+### Python:
+[Coursera.org]/ "Погружение в Python" <br/>
+[Coursera.org]/ "Основы программирования на Python" <br/>
+
+#### Other:
+[Stepik.org]/ "Основы Git" <br/>
+[Kevin Skoglund]/ "Git. Essential Training." <br/>
+[Specialist.ru]/ "Оптимизация и продвижение сайтов." <br/>
+[WebForMySelf.com]/ "Полный курс по MySQL." <br/>
 [Олег Касьянов]/ "Joomla 3 в деталях." <br/>
 [Евгений Попов]/ "Домен и Хостинг"." <br/>
