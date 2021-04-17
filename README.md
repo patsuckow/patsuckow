@@ -53,10 +53,10 @@ https://stepik.org/cert/105166 <br/>
 [WebForMySelf.com]/ "Полный курс по объектно-ориентированному программированию на PHP." <br/>
 [Стас Протасевич]/ "API ВКОНТАКТЕ. Современный PHP по работе с Библиотекой VK-SDK с ВКОНТАКТЕ." <br/>
 
-### JavaScript & jQuery:
+#### JavaScript & jQuery:
 [WebForMySelf.com]/ "JavaScript & jQuery с Нуля до Профи." <br/>
 
-### Python:
+#### Python:
 [Coursera.org]/ "Погружение в Python" <br/>
 [Coursera.org]/ "Основы программирования на Python" <br/>
 
