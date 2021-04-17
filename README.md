@@ -10,7 +10,7 @@ Python3, pip, Jupyter, <br/>
 PHP, Composer, CakePHP Framework, <br/> 
 JavaScript, AJAX, jQuery, Bootstrap<br/>
 HTML5/CSS3/Adaptive and cross-browser layout, Json, XML, Markdown, <br/>
-BD & tools: MySQL, SQLite, PhpMyAdmin, DB Browser for SQLite<br/>
+BD & tools: MySQL, SQLite3, PhpMyAdmin, DB Browser for SQLite<br/>
 API: Vk, Yandex, Google, <br/>
 Linux, Terminal, Bash, VIM, Git, Bitbucket, <br/>
 Parsing data from sites, <br/>
@@ -46,7 +46,7 @@ https://stepik.org/cert/105166 <br/>
 ### PHP & CakePHP:
 [Specialist.ru]/ "Программирование на PHP (Уровень 1-4)." <br/>
 [GeekBrains.ru]/ "PHP от основ к ООП." <br/>
-[Станислав Бойко]/ "PHP + SQLITE3. Создание CMS системы с нуля." <br/>
+[Станислав Бойко]/ "PHP + SQLite3. Создание CMS системы с нуля." <br/>
 [Станислав Бойко]/ "Гостевая книга на PHP + SQLite3." <br/>
 [WebForMySelf.com]/ "CakePHP: с Нуля до Гуру. На примере создания корпоративного сайта." <br/>
 [WebForMySelf.com]/ "Курс по регулярным выражениям на PHP." <br/>
