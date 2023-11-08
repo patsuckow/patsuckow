@@ -5,7 +5,7 @@
 2. "Information systems and technologies in business" (studied for only two years, did not graduate).
 
 ### My skills and tools used:
-IDE: PhpStorm / PyCharm / WebStorm / VS Code, <br/>
+IDE: PhpStorm / PyCharm / WebStorm / VS Code, VSCodium<br/>
 Python3, pip, Jupyter, <br/>
 PHP, Composer, CakePHP Framework, <br/> 
 JavaScript, AJAX, jQuery, Bootstrap<br/>
