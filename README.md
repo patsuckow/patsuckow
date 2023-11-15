@@ -64,6 +64,7 @@ https://www.ratatype.ru/u3136722/certificate/ <br/>
 #### Git & GitHub:
 [Stepik.org]/ "Основы Git" <br/>
 [Kevin Skoglund]/ "Git. Essential Training." <br/>
+[Scott Chacon, Ben Straub]/"Pro Git" <br/>
 
 #### Other:
 [Евгений Попов]/ "Домен и Хостинг"." <br/>
