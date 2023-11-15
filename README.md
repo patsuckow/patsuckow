@@ -54,8 +54,9 @@ https://www.ratatype.ru/u3136722/certificate/ <br/>
 [WebForMySelf.com]/ "JavaScript & jQuery с Нуля до Профи." <br/>
 
 #### Python:
-[Coursera.org]/ "Погружение в Python" <br/>
+[A Byte of Python] / (book)
 [Coursera.org]/ "Основы программирования на Python" <br/>
+[Coursera.org]/ "Погружение в Python" <br/>
 
 #### Db:
 [WebForMySelf.com]/ "Полный курс по MySQL." <br/>
