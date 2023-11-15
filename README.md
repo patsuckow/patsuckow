@@ -19,10 +19,6 @@ SEO (Website optimization and promotion), <br/>
 
 ![myskills](https://github-readme-stats.vercel.app/api/top-langs/?username=patsuckow&layout=compact&exclude_repo=PingMeRN&theme=nord)
 
-### My skills that are no longer in demand:
-Joomla! CMS + Creation of modules, plugins and templates <br/>
-Creating widgets and gadgets on the desktop for Windows 7, 8 <br/>
-
 ### My certificates:
 https://stepik.org/cert/54096 <br/>
 https://www.coursera.org/account/accomplishments/certificate/QY6LVU9KAV3A <br/>
@@ -44,7 +40,7 @@ https://www.ratatype.ru/u3136722/certificate/ <br/>
 [Specialist.ru]/ "Проектирование безопасности сайтов и эффективная защита от атак." <br/>
 [Станислав Бойко]/ "Безопасность PHP". <br/>
 
-#### PHP & CakePHP:
+#### PHP:
 [Specialist.ru]/ "Программирование на PHP (Уровень 1-4)." <br/>
 [GeekBrains.ru]/ "PHP от основ к ООП." <br/>
 [Станислав Бойко]/ "PHP + SQLite3. Создание CMS системы с нуля." <br/>
@@ -61,10 +57,18 @@ https://www.ratatype.ru/u3136722/certificate/ <br/>
 [Coursera.org]/ "Погружение в Python" <br/>
 [Coursera.org]/ "Основы программирования на Python" <br/>
 
-#### Other:
+#### Db:
+[WebForMySelf.com]/ "Полный курс по MySQL." <br/>
+
+#### Git & GitHub:
 [Stepik.org]/ "Основы Git" <br/>
 [Kevin Skoglund]/ "Git. Essential Training." <br/>
-[Specialist.ru]/ "Оптимизация и продвижение сайтов." <br/>
-[WebForMySelf.com]/ "Полный курс по MySQL." <br/>
-[Олег Касьянов]/ "Joomla 3 в деталях." <br/>
+
+#### Other:
 [Евгений Попов]/ "Домен и Хостинг"." <br/>
+[Олег Касьянов]/ "Joomla 3 в деталях." <br/>
+[Specialist.ru]/ "Оптимизация и продвижение сайтов." <br/>
+
+### My skills that are no longer in demand:
+Joomla! CMS + Creation of modules, plugins and templates <br/>
+Creating widgets and gadgets on the desktop for Windows 7, 8 <br/>
